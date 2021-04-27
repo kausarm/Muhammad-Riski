@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "116530230426",
+    "project_id": "coffeproject-f04ef",
+    "storage_bucket": "coffeproject-f04ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116530230426:android:ab9c6700b5d00296db5b23",
+        "android_client_info": {
+          "package_name": "com.app.pemesanancoffe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116530230426-ib5qgg7v878dmlu1c0ukj4fobc8m8i15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.pemesanancoffe",
+            "certificate_hash": "4585f2a428b030e4c478dad9162b6d2d3757239c"
+          }
+        },
+        {
+          "client_id": "116530230426-ect7lqlh5kfh8qsl6rj72js8qmouoki0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDi3AX_OuWWPqhSqWTiromPHmk8nMqck0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116530230426-ect7lqlh5kfh8qsl6rj72js8qmouoki0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
